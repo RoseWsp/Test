@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git is free love software.
+Git is free love software OpenGL.
